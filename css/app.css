@@ -15,6 +15,10 @@
   background-position: center;
   background-size: cover;
 }
+.modal-dialog .profile-card{
+  background-image: linear-gradient(to right bottom, #def7f5, #f5e9f1);
+  /* background-image: linear-gradient(to right bottom, #b494e7, #ed94ce, #ff9fb0, #ffb69a, #ffd196, #f5df98, #e6eca1, #d5f9b0, #bbfabb, #a0f9ca, #87f7da, #71f4eb); */
+}
 .profile-card{
   display: flex;
   flex-direction: column;
